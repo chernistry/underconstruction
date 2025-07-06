@@ -1,6 +1,6 @@
 # Cloudflare Worker: Interactive MIDI Sampler
 
-![Sampler Screenshot](https://raw.githubusercontent.com/sashla/sense/main/underconstruction/screenshot.png)
+![Sampler Screenshot](assets/screenshot.png)
 
 A minimalist Cloudflare Worker to display an interactive synthesizer during maintenance. Just copy the contents of `underconstruction.js` into a new Worker and you're good to go.
 
